@@ -1,0 +1,2 @@
+# jigokunotenshi
+my first repository
